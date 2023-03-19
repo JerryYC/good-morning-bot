@@ -1,0 +1,19 @@
+env:
+  driver_path: '...r'
+credential:
+  account_username: '...'
+  account_password: '...'
+  chat_id: '...'
+message:
+  time_hour: 8
+  time_min: 5
+  time_range: 0
+  messages:
+    - 'Good morning beautiful!'
+    - 'Rise and shine, my love 🤍'
+    - 'Good morning, my sweet coffee addict ☕️'
+    - 'Good morning sunshine'
+    - 'Good morning queen 👑'
+    - 'Good morning, gorgeous 💅🏻'
+    - 'Good morning, my heart! 💖 '
+    - 'Good morning, my pancake lover 🥞'
